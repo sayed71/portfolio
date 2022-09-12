@@ -1,5 +1,14 @@
 ![image](https://user-images.githubusercontent.com/83280369/189738315-fe50d3af-9063-4ca7-adb4-6b1ac163b8b2.png)
 
+## Professional Skills: 
+ - Language: ASP.Net WebForms C#, ASP.Net Core C#, Windows Forms C#, .Net Framework, PHP, CodeIgniter, JavaScript, jQuery.
+ - Database: Microsoft SQL Server, MySQL, Microsoft Access Database 2003.
+ - Reporting Tools: SAP Crystal Report (WebForms and WinForms C#), FPDF Library (PHP).
+ - Web Design: HTML, CSS, Bootstrap and PSD to HTML Conversion. 
+ - Web API: SSLCOMMERZ Payment and SMS API, ADN SMS API, Facebook API, etc.
+ - Other Library: jQuery UI and Mobile, EasyUI, Treant.js, jQuery DataTables, Select2, WYSIWYG Editor, Google Chart & Map, and Graph Library (Gantt Chart, Sunburst), etc. 
+ - Development Tools: GitHub, Visual Studio 2015, Visual Studio 2019, SQL Server 2016, SAP Crystal Report, XAMPP/ WAMP, SQLyog, Browser, VS Code, Sublime Text, etc. 
+
 
 ## ASP.Net C# (WebForms) Related Modules:
  - Marketing Transport Bill Module.
