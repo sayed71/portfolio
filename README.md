@@ -18,12 +18,12 @@
  - Ecommerce (Mobile Mella).	
  - Modern Herbal Group ERP with MLM.
  - Prime Finance: Deposit Management and  Stock Portfolio Management System.
- - Dynamic Website (Panjeree.com, Akkharpatra.com, Barotopa.com.bd).
+ - Dynamic Website (https://Panjeree.com, https://Akkharpatra.com, https://Barotopa.com.bd).
 
 
 ## ASP.Net Core C# (New Framework): 
  - Panjeree Ecommerce (PBS Book Shop: https://pbs.com.bd) 
- - API Get/Post Request (ASP.Net Core C#)  [ Link: bit.ly/3dklFT5 ]
+ - API Get/Post Request (ASP.Net Core C#)  [ https://bit.ly/3dklFT5 ]
 
 
 ## Desktop Application (WinForms C#):
@@ -32,8 +32,8 @@
 
 
 ## Hybrid Mobile Apps (Android WebView): 
- - PATS (Panjeree Task Scheduler)  [ is.gd/XYQf6n ]
- - BUET 8592 (BUET 85-92 Batch Club)  [ is.gd/ijiRam ]	
- - POLE (Panjeree Online Exam)  [ t.ly/5y2s ]
+ - PATS (Panjeree Task Scheduler)  [ https://is.gd/XYQf6n ]
+ - BUET 8592 (BUET 85-92 Batch Club)  [ https://is.gd/ijiRam ]	
+ - POLE (Panjeree Online Exam)  [ https://t.ly/5y2s ]
 
 
