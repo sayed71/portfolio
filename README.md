@@ -28,6 +28,11 @@
  - Modern Herbal Group ERP with MLM.
  - Prime Finance: Deposit Management and  Stock Portfolio Management System.
  - Dynamic Website (https://Panjeree.com, https://Akkharpatra.com, https://Barotopa.com.bd).
+ 
+ 
+ ## CodeIgniter (PHP Framework):
+ - Online Attendance System.
+ - Dynamic Website: Peoples Ceramic (http://peoplesceramic.com).
 
 
 ## ASP.Net Core C# (New Framework): 
