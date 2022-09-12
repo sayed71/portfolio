@@ -10,5 +10,30 @@
  - Project Management Module (Gantt Chart) for R&D Department (https://panjeree.org).
 
 
+## PHP Related Projects/Modules:
+ - CV Bank (Panjeree HR Department).
+ - MKT Institutional Information Module.
+ - Panjeree Lottery System (FB Campaign). 
+ - Website Module (Audio Book, Online Exam and Internet Link, Digital Question Bank).
+ - Ecommerce (Mobile Mella).	
+ - Modern Herbal Group ERP with MLM.
+ - Prime Finance: Deposit Management and  Stock Portfolio Management System.
+ - Dynamic Website (Panjeree.com, Akkharpatra.com, Barotopa.com.bd).
+
+
+## ASP.Net Core C# (New Framework): 
+ - Panjeree Ecommerce (PBS Book Shop: https://pbs.com.bd) 
+ - API Get/Post Request (ASP.Net Core C#)  [ Link: bit.ly/3dklFT5 ]
+
+
+## Desktop Application (WinForms C#):
+ - Panjeree ERP System Conversion.
+ - Panjeree POS System (PBS Book Shop and Ekushey Book Fair Stall).
+
+
+## Hybrid Mobile Apps (Android WebView): 
+ - PATS (Panjeree Task Scheduler)  [ is.gd/XYQf6n ]
+ - BUET 8592 (BUET 85-92 Batch Club)  [ is.gd/ijiRam ]	
+ - POLE (Panjeree Online Exam)  [ t.ly/5y2s ]
 
 
