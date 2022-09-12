@@ -37,3 +37,15 @@
  - POLE (Panjeree Online Exam)  [ https://t.ly/5y2s ]
 
 
+## Solution Related Work:
+ - Working with Graphs (Gantt Chart, Pie Chart, Sunbrast, Hierarchical Tree, Collapsible Tree etc.)
+ - Customized Organogram Tree (Dynamic Draw Tree, Change Tree Path Length & Level).
+ - Working with Many Types of Entry Forms (Complex Master Details, Working Forms, Single Form) Based on jQuery Ajax for Remove Postback or Form Load.
+ - Dynamic Complex Menu Draw with User Privilege (Role, Right).
+ - Working with File Operation (Multiple File Upload, File Management - Download with Download Status, Decrease Image Size, File Read & Write, Many Types of File Format - JPG, PDF, DOCS etc.)
+ - Regular Expression Related Work (Make Complex Pattern for Validation, Bangladeshi Mobile Number Validation, Find Data from File or Web URL etc.)
+ - Working with Data Migration Tools (Database Backup, Data Update, Schedule Backup, Data Compare, Find Data with Advance Feature etc.)
+ - Programmatically Read and Entry Data with Regular Expression from Stock Exchange Website for Smart Stock Solution without API (As Like CURL). 
+ - Also, Some Problem-Solving Related Work (Use and Modify Third Party Libraries) etc.
+
+
