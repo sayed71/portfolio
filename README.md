@@ -37,7 +37,7 @@
 
 
 ## ASP.Net Core C# (New Framework): 
- - Panjeree Ecommerce (PBS Book Shop: https://pbs.com.bd) 
+ - E-commerce for Panjeree (PBS Book Shop: https://pbs.com.bd) 
  - API Get/Post Request (ASP.Net Core C#)  [ https://bit.ly/3dklFT5 ]
 
 
@@ -61,6 +61,7 @@
  - Regular Expression Related Work (Make Complex Pattern for Validation, Bangladeshi Mobile Number Validation, Find Data from File or Web URL etc.)
  - Working with Data Migration Tools (Database Backup, Data Update, Schedule Backup, Data Compare, Find Data with Advance Feature etc.)
  - Programmatically Read and Entry Data with Regular Expression from Stock Exchange Website for Smart Stock Solution without API (As Like CURL). 
+ - Configure .htaccess File for Custom User-Friendly URL (SEO).
  - Also, Some Problem-Solving Related Work (Use and Modify Third Party Libraries) etc.
 
 
