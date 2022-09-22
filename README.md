@@ -3,11 +3,11 @@
 ## Education: 
 - M.Sc in CSE at Jagannath University (JnU).
 - B.Sc in CSE at University of Information Technology and Sciences (UITS).
-- Diploma in Computer Technology at Feni Polytechnic Institute.
+- Diploma in Computer Technology at Feni Polytechnic Institute (FPI).
 
 
 ## Professional Skills: 
- - Language: ASP.Net WebForms C#, ASP.Net Core C#, Windows Forms C#, .Net Framework, PHP, CodeIgniter, JavaScript, jQuery.
+ - Language: ASP.Net WebForms C#, ASP.Net Core C#, C#.Net WinForms, PHP, CodeIgniter, JavaScript, jQuery.
  - Database: Microsoft SQL Server, MySQL, Microsoft Access Database 2003.
  - Reporting Tools: SAP Crystal Report (WebForms and WinForms C#), FPDF Library (PHP).
  - Web Design: HTML, CSS, Bootstrap and PSD to HTML Conversion. 
