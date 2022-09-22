@@ -1,6 +1,12 @@
 ![image](https://user-images.githubusercontent.com/83280369/189738315-fe50d3af-9063-4ca7-adb4-6b1ac163b8b2.png)
 
 ## Professional Skills: 
+- M.Sc in CSE at Jagannath University
+- B.Sc in CSE at University of Information Technology and Sciences (UITS).
+- Diploma in Computer Technology at Feni Polytechnic Institute.
+
+
+## Professional Skills: 
  - Language: ASP.Net WebForms C#, ASP.Net Core C#, Windows Forms C#, .Net Framework, PHP, CodeIgniter, JavaScript, jQuery.
  - Database: Microsoft SQL Server, MySQL, Microsoft Access Database 2003.
  - Reporting Tools: SAP Crystal Report (WebForms and WinForms C#), FPDF Library (PHP).
