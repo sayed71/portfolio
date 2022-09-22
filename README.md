@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/83280369/189738315-fe50d3af-9063-4ca7-adb4-6b1ac163b8b2.png)
 
-## Professional Skills: 
+## Education: 
 - M.Sc in CSE at Jagannath University
 - B.Sc in CSE at University of Information Technology and Sciences (UITS).
 - Diploma in Computer Technology at Feni Polytechnic Institute.
