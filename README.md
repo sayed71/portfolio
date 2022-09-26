@@ -46,7 +46,7 @@
  - API Get/Post Request (ASP.Net Core C#)  [ https://bit.ly/3dklFT5 ]
 
 
-## Desktop Application (WinForms C#):
+## Desktop Application (C#.Net WinForms):
  - Panjeree ERP System Conversion.
  - Panjeree POS System (PBS Book Shop and Ekushey Book Fair Stall).
 
