@@ -30,8 +30,7 @@
  - MKT Institutional Information Module.
  - Panjeree Lottery System (FB Campaign). 
  - Website Module (Audio Book, Online Exam and Internet Link, Digital Question Bank).
- - E-commerce: <a href="https://docs.google.com/document/d/1e5Ldpbuz_2wG1B4pDjeUBQNIm6duIPQJ4RNAJk7uXLI/edit" title="Ecommerce - Mobile Mella">Mobile Mella</a>
- - E-commerce: IT WALA (https://www.itwala.com.bd)
+ - E-commerce: IT WALA (https://www.itwala.com.bd), <a href="https://docs.google.com/document/d/1e5Ldpbuz_2wG1B4pDjeUBQNIm6duIPQJ4RNAJk7uXLI/edit" title="Ecommerce - Mobile Mella">Mobile Mella</a>
  - Modern Herbal Group ERP with MLM.
  - Prime Finance: Deposit Management and  Stock Portfolio Management System.
  - Dynamic Website (https://Panjeree.com, https://Akkharpatra.com, https://Barotopa.com.bd).
