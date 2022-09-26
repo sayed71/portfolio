@@ -20,12 +20,12 @@
  - Marketing Transport Bill Module.
  - CV Rating, Leave, Short Leave, Company Organogram, Job Analysis, File Archive IOM, PaySlip Module (HR Department).
  - Attendance, Office Visit and Daily Food Snacks Module (Admin Department).
- - Panjeree Task Scheduler (PATS).
- - Question Collection Module (Marketing).
+ - Panjeree Task Scheduler (PATS) [Web Version].
+ - Marketing Question Collection Module (PSC, JSC, SSC, HSC).
  - Project Management Module (Gantt Chart) for R&D Department (https://panjeree.org).
 
 
-## PHP Related Projects/Modules:
+## Core PHP Related Projects/Modules:
  - CV Bank (Panjeree HR Department).
  - MKT Institutional Information Module.
  - Panjeree Lottery System (FB Campaign). 
@@ -39,7 +39,7 @@
  
  ## CodeIgniter (PHP Framework):
  - Online Attendance System.
- - Dynamic Website: Peoples Ceramic (http://peoplesceramic.com).
+ - Dynamic Website: Rosetta, Peoples Ceramic (http://peoplesceramic.com).
 
 
 ## ASP.Net Core C# (New Framework): 
