@@ -7,9 +7,9 @@
 
 
 ## Professional Skills: 
- - Language: ASP.Net WebForms C#, ASP.Net Core C#, C#.Net WinForms, PHP, CodeIgniter, JavaScript, jQuery.
+ - Language: ASP.Net WebForms, ASP.Net Core, C#.Net WinForms, PHP, CodeIgniter, JavaScript, jQuery.
  - Database: Microsoft SQL Server, MySQL, Microsoft Access Database 2003.
- - Reporting Tools: SAP Crystal Report (WebForms and WinForms C#), FPDF Library (PHP).
+ - Reporting Tools: SAP Crystal Report (ASP.Net WebForms and C#.Net WinForms), FPDF Library (PHP).
  - Web Design: HTML, CSS, Bootstrap and PSD to HTML Conversion. 
  - Web API: SSLCOMMERZ Payment and SMS API, ADN SMS API, Facebook API, etc.
  - Other Library: jQuery UI and Mobile, EasyUI, Treant.js, jQuery DataTables, Select2, WYSIWYG Editor, Google Chart & Map, and Graph Library (Gantt Chart, Sunburst), etc. 
