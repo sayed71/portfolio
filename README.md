@@ -61,6 +61,7 @@
  - Hybrid App Design (BUET 8592: https://is.gd/ijiRam)
 
 ## Solution Related Work:
+ - Best Practices for Single Page Web Application Development.
  - Working with Graphs (Gantt Chart, Pie Chart, Sunbrast, Hierarchical Tree, Collapsible Tree etc.)
  - Customized Organogram Tree (Dynamic Draw Tree, Change Tree Path Length & Level).
  - Working with Many Types of Entry Forms (Complex Master Details, Working Forms, Single Form) Based on jQuery Ajax for Remove Postback or Form Load.
