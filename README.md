@@ -16,7 +16,7 @@
  - Development Tools: GitHub, Visual Studio 2015, Visual Studio 2019, SQL Server 2016, SAP Crystal Report, XAMPP/ WAMP, SQLyog, Browser, VS Code, Sublime Text, etc. 
 
 
-## ASP.Net C# (WebForms) Related Modules:
+## ASP.Net WebForms Related Modules:
  - Marketing Transport Bill Module.
  - CV Rating, Leave, Short Leave, Company Organogram, Job Analysis, File Archive IOM, PaySlip Module (HR Department).
  - Attendance, Office Visit and Daily Food Snacks Module (Admin Department).
@@ -41,9 +41,9 @@
  - Dynamic Website: Rosetta, Peoples Ceramic (http://peoplesceramic.com).
 
 
-## ASP.Net Core C# (New Framework): 
+## ASP.Net Core (New Framework): 
  - E-commerce for Panjeree (PBS Book Shop: https://pbs.com.bd) 
- - API Get/Post Request (ASP.Net Core C#)  [ https://bit.ly/3dklFT5 ]
+ - API Get/Post Request (ASP.Net Core)  [ https://bit.ly/3dklFT5 ]
 
 
 ## Desktop Application (C#.Net WinForms):
