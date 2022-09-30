@@ -60,7 +60,7 @@
  - E-commerce Design (PBS Book Shop: https://pbs.com.bd)
  - Hybrid App Design (BUET 8592: https://is.gd/ijiRam)
 
-## Solution Related Work: <a href="https://github.com/sayed-masud/solution-related-work">(View Details)</a>
+## Solution Related Work: 
  - Best Practices for Single Page Web Application Development.
  - Working with Graphs (Gantt Chart, Pie Chart, Sunbrast, Hierarchical Tree, Collapsible Tree etc.)
  - Customized Organogram Tree (Dynamic Draw Tree, Change Tree Path Length & Level).
@@ -71,7 +71,8 @@
  - Working with Data Migration Tools (Database Backup, Data Update, Schedule Backup, Data Compare, Find Data with Advance Feature etc.)
  - Programmatically Read and Entry Data with Regular Expression from Stock Exchange Website for Smart Stock Solution without API (As Like CURL). 
  - Configure .htaccess File for Custom User-Friendly URL (SEO).
- - Also, Some Problem-Solving Related Work (Use and Modify Third Party Libraries) etc.
+ - Also, Some Problem-Solving Related Work (Use and Modify Third Party Libraries) 
+ <a href="https://github.com/sayed-masud/solution-related-work">See More ...</a>
 
 
 <p><< <a href="https://github.com/sayed-masud">Back to Home Page</a></p>
