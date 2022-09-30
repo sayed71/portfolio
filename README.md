@@ -60,7 +60,7 @@
  - E-commerce Design (PBS Book Shop: https://pbs.com.bd)
  - Hybrid App Design (BUET 8592: https://is.gd/ijiRam)
 
-## Solution Related Work:
+## Solution Related Work: <a href="https://github.com/sayed-masud/solution-related-work">(View Details)</a>
  - Best Practices for Single Page Web Application Development.
  - Working with Graphs (Gantt Chart, Pie Chart, Sunbrast, Hierarchical Tree, Collapsible Tree etc.)
  - Customized Organogram Tree (Dynamic Draw Tree, Change Tree Path Length & Level).
