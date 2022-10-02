@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/83280369/189738315-fe50d3af-9063-4ca7-adb4-6b1ac163b8b2.png)
+<!--![image](https://user-images.githubusercontent.com/83280369/189738315-fe50d3af-9063-4ca7-adb4-6b1ac163b8b2.png)-->
+![sayedmasud69@gmail com (1)](https://user-images.githubusercontent.com/83280369/193444548-d202bc71-69bc-45eb-a4e5-6c06b5b3e2f7.png)
 
 ## Education: 
 - M.Sc in CSE at Jagannath University (JnU).
