@@ -75,7 +75,7 @@
  - Programmatically Read and Entry Data with Regular Expression from Stock Exchange Website for Smart Stock Solution without API (As Like CURL). 
  - Configure .htaccess File for Custom User-Friendly URL (SEO).
  - Also, Some Problem-Solving Related Work (Use and Modify Third Party Libraries) 
- <a href="https://github.com/sayed-masud/solution-related-work">See More ...</a>
+ <a href="https://github.com/sayed71/solution-related-work">See More ...</a>
 
 
 <p><< <a href="https://github.com/sayed71">Back to Home Page</a></p>
