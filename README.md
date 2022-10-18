@@ -1,6 +1,4 @@
-<!--![image](https://user-images.githubusercontent.com/83280369/189738315-fe50d3af-9063-4ca7-adb4-6b1ac163b8b2.png)-->
-<!--![image](https://user-images.githubusercontent.com/83280369/193444548-d202bc71-69bc-45eb-a4e5-6c06b5b3e2f7.png)-->
-![image](https://user-images.githubusercontent.com/83280369/193444705-97d934c8-a34e-43e7-a247-3161c8edc0a6.png)
+![1](https://user-images.githubusercontent.com/83280369/196458561-44110989-fbf2-45da-a3bc-3a90e4676083.png)
 
 
 ## Education: 
