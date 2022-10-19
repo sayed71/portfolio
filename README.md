@@ -1,13 +1,13 @@
 ![1](https://user-images.githubusercontent.com/83280369/196458561-44110989-fbf2-45da-a3bc-3a90e4676083.png)
 
 
-## Education: 
+## Education
 - M.Sc in CSE at Jagannath University (JnU).
 - B.Sc in CSE at University of Information Technology and Sciences (UITS).
 - Diploma in Computer Technology at Feni Polytechnic Institute (FPI).
 
 
-## Professional Skills: 
+## Professional Skills
  - Language: ASP.Net WebForms, ASP.Net Core, C#.Net WinForms, PHP, CodeIgniter, JavaScript, jQuery.
  - Database: Microsoft SQL Server, MySQL, Microsoft Access Database 2003.
  - Reporting Tools: SAP Crystal Report (ASP.Net WebForms and C#.Net WinForms), FPDF Library (PHP).
@@ -17,7 +17,7 @@
  - Development Tools: GitHub, Visual Studio 2015, Visual Studio 2019, SQL Server 2016, SAP Crystal Report, XAMPP/ WAMP, SQLyog, Browser, VS Code, Sublime Text, etc. 
 
 
-## ASP.Net WebForms Related Modules:
+## ASP.Net WebForms Related Modules
  - Marketing Transport Bill Module.
  - CV Rating, Leave, Short Leave, Company Organogram, Job Analysis, File Archive IOM, PaySlip Module (HR Department).
  - Attendance, Office Visit and Daily Food Snacks Module (Admin Department).
@@ -26,7 +26,7 @@
  - Project Management Module (Gantt Chart) for R&D Department (https://panjeree.org).
 
 
-## Core PHP Related Projects/Modules:
+## Core PHP Related Projects/Modules
  - CV Bank (Panjeree HR Department).
  - MKT Institutional Information Module.
  - Panjeree Lottery System (FB Campaign). 
@@ -37,31 +37,31 @@
  - Dynamic Website (https://Panjeree.com, https://Akkharpatra.com, https://Barotopa.com.bd).
  
  
- ## CodeIgniter (PHP Framework):
+ ## CodeIgniter (PHP Framework)
  - Online Attendance System.
  - Dynamic Website: Rosetta, Peoples Ceramic (http://peoplesceramic.com).
 
 
-## ASP.Net Core (New Framework): 
+## ASP.Net Core (New Framework)
  - E-commerce for Panjeree (PBS Book Shop: https://pbs.com.bd) 
  - API Get/Post Request (ASP.Net Core)  [ https://bit.ly/3dklFT5 ]
 
 
-## Desktop Application (C#.Net WinForms):
+## Desktop Application (C#.Net WinForms)
  - Panjeree ERP System Conversion.
  - Panjeree POS System (PBS Book Shop and Ekushey Book Fair Stall).
 
 
-## Hybrid Mobile Apps (Android WebView): 
+## Hybrid Mobile Apps (Android WebView)
  - PATS (Panjeree Task Scheduler)  [ https://is.gd/XYQf6n ]
  - BUET 8592 (BUET 85-92 Batch Club)  [ https://is.gd/ijiRam ]	
  - POLE (Panjeree Online Exam)  [ https://t.ly/5y2s ]
  
- ## Web Design (PSD to HTML):
+ ## Web Design (PSD to HTML)
  - E-commerce Design (PBS Book Shop: https://pbs.com.bd)
  - Hybrid App Design (BUET 8592: https://is.gd/ijiRam)
 
-## Solution Related Work: 
+## Solution Related Work 
  - Best Practices for Single Page Web Application Development.
  - Working with Graphs (Gantt Chart, Pie Chart, Sunbrast, Hierarchical Tree, Collapsible Tree etc.)
  - Customized Organogram Tree (Dynamic Draw Tree, Change Tree Path Length & Level).
