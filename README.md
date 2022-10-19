@@ -74,6 +74,30 @@
  - Configure .htaccess File for Custom User-Friendly URL (SEO).
  - Also, Some Problem-Solving Related Work (Use and Modify Third Party Libraries) 
  <a href="https://github.com/sayed71/solution-related-work">See More ...</a>
+ 
+ 
+ ## Contact
+ 
+ <p>
+<a href="https://www.linkedin.com/in/sayed71" target="_blank">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sayed2k7@gmail.com&su=&body=" target="_blank">
+  <img
+    alt="Gmail"
+    src="https://img.shields.io/badge/gmail-0077B5?logo=gmail&logoColor=red&style=for-the-badge"
+  />
+</a>
+<a href="https://join.skype.com/invite/qZk3qBGCA0mb" target="_blank">
+  <img
+    alt="Skype"
+    src="https://img.shields.io/badge/skype-0077B5?logo=skype&logoColor=white&style=for-the-badge"
+  />
+</a>
+</p>
 
 
 <p><< <a href="https://github.com/sayed71">Back to Home Page</a></p>
