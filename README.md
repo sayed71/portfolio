@@ -24,6 +24,7 @@
  - Panjeree Task Scheduler (PATS) [Web Version].
  - Marketing Question Collection Module (PSC, JSC, SSC, HSC).
  - Project Management Module (Gantt Chart) for R&D Department (https://panjeree.org).
+ - Inventory System with Multiple Warehouse.
 
 
 ## Core PHP Related Projects/Modules
