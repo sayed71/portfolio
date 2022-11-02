@@ -8,14 +8,15 @@
 
 
 ## Professional Skills
- - Backend: ASP.Net WebForms, ASP.Net Core, ADO.NET, C#.Net WinForms, PHP, CodeIgniter.
+ - Backend: ASP.Net WebForms, ASP.Net Core, ASP.NET Core Web API, ADO.NET, PHP, CodeIgniter.
  - Frontend: JavaScript, jQuery (jQuery UI, jQuery Mobile, Easy UI).
+ - Desktop Application: C#.Net WinForms.
  - Database: Microsoft SQL Server, MySQL, Microsoft Access Database 2003.
- - Reporting Tools: SAP Crystal Report (ASP.Net WebForms and C#.Net WinForms), FPDF Library (PHP), HTML Report.
+ - Reporting Tools: SAP Crystal Report (ASP.Net WebForms & C#.Net WinForms), FPDF Library (PHP) and HTML Report.
  - Web Design: HTML, CSS, Bootstrap, jQuery Mobile and PSD to HTML Conversion. 
- - Web API: ASP.NET Core Web API, SSLCOMMERZ Payment and SMS API, ADN SMS API, Facebook API, etc.
+ - Web API: SSLCOMMERZ Payment and SMS API, ADN SMS API, Facebook API, etc.
  - Other Library: Treant.js, jQuery DataTables, Select2, WYSIWYG Editor, Google Chart & Map, and Graph Library (Gantt Chart, Sunburst), etc. 
- - Development Tools: GitHub, Visual Studio 2015, Visual Studio 2019, SQL Server 2016, SAP Crystal Report, XAMPP/ WAMP, SQLyog, Browser, VS Code, Sublime Text, etc. 
+ - Development Tools: GitHub, Visual Studio 2015, Visual Studio 2019, SQL Server 2016, SAP Crystal Report, XAMPP/ WAMP, SQLyog, Browser, VS Code, Sublime Text, etc.
 
 
 ## ASP.Net WebForms Related Modules
