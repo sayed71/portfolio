@@ -69,7 +69,7 @@
  - Working with Graphs (Gantt Chart, Pie Chart, Sunbrast, Hierarchical Tree, Collapsible Tree etc.)
  - Customized Organogram Tree (Dynamic Draw Tree, Change Tree Path Length & Level).
  - Working with Many Types of Entry Forms (Complex Master Details, Working Forms, Single Form) Based on jQuery Ajax for Remove Postback or Form Load.
- - Dynamic Complex Menu Draw with User Privilege (Role, Right).
+ - Dynamic Complex Menu Draw with User Privilege (Role, Right) for User Management.
  - Working with File Operation (Multiple File Upload, File Management - Download with Download Status, Decrease Image Size, File Read & Write, Many Types of File Format - JPG, PDF, DOCS etc.)
  - Regular Expression Related Work (Make Complex Pattern for Validation, Bangladeshi Mobile Number Validation, Find Data from File or Web URL etc.)
  - Working with Data Migration Tools (Database Backup, Data Update, Schedule Backup, Data Compare, Find Data with Advance Feature etc.)
